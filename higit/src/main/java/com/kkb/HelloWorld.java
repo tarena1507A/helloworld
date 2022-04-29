@@ -8,5 +8,6 @@ public class HelloWorld {
         System.out.println("hello world2333");
         System.out.println("远程添加代码");
         System.out.println("远程添加代码2");
+        System.out.println("本地添加代码2");
     }
 }
