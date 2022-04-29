@@ -7,5 +7,6 @@ public class HelloWorld {
         System.out.println("hello world2222");
         System.out.println("hello world2333");
         System.out.println("远程添加代码");
+        System.out.println("远程添加代码2");
     }
 }
